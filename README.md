@@ -64,3 +64,7 @@
 ·  ·  · ────────────────── ✦ ────────────────── ·  ·  ·
 
 <br></div>
+
+<div align="center">
+  <img src="./assets/divider.png" width="80%">
+</div>
