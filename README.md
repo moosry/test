@@ -68,3 +68,7 @@
 <div align="center">
   <img src="./assets/divider.png" width="80%">
 </div>
+<div align="center">
+  <img src="./assets/divider_heart.png" width="80%">
+</div>
+divider_heart.png
